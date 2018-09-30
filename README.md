@@ -1,5 +1,7 @@
 # .NET core HW1
 
+> https://github.com/iampaul83/dotnet-core-hw1
+
 1. 計算 1 + 2 + ... + n 的合
 2. 判斷 n 是否為質數
 3. 印出 99 乘法表
