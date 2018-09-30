@@ -47,7 +47,7 @@ namespace hw1
                                 Console.Write(String.Format("| {0,-10} |", String.Format("{0} x {1} = {2}", x, y, String.Format("{0,2}", x * y))));
                                 if (k == 3)
                                 {
-                                    Console.Write("\n");
+                                    Console.WriteLine();
                                 }
                                 else {
                                     Console.Write(" ");
@@ -82,7 +82,7 @@ namespace hw1
                                 Console.Write(String.Format("| {0,-10} |", String.Format("{0} x {1} = {2}", x, y, String.Format("{0,2}", x * y))));
                                 if (k == 3)
                                 {
-                                    Console.Write("\n");
+                                    Console.WriteLine();
                                 }
                                 else {
                                     Console.Write(" ");
